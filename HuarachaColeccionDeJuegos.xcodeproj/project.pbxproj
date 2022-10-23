@@ -14,6 +14,7 @@
 		AAFDB1D72905B07D0018E509 /* HuarachaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AAFDB1D52905B07D0018E509 /* HuarachaColeccionDeJuegos.xcdatamodeld */; };
 		AAFDB1D92905B07D0018E509 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAFDB1D82905B07D0018E509 /* Assets.xcassets */; };
 		AAFDB1DC2905B07D0018E509 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAFDB1DA2905B07D0018E509 /* LaunchScreen.storyboard */; };
+		AAFDB1E42905B8B30018E509 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFDB1E32905B8B30018E509 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AAFDB1D82905B07D0018E509 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAFDB1DB2905B07D0018E509 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAFDB1DD2905B07D0018E509 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAFDB1E32905B8B30018E509 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AAFDB1CC2905B07D0018E509 /* AppDelegate.swift */,
 				AAFDB1CE2905B07D0018E509 /* SceneDelegate.swift */,
 				AAFDB1D02905B07D0018E509 /* ViewController.swift */,
+				AAFDB1E32905B8B30018E509 /* JuegosViewController.swift */,
 				AAFDB1D22905B07D0018E509 /* Main.storyboard */,
 				AAFDB1D82905B07D0018E509 /* Assets.xcassets */,
 				AAFDB1DA2905B07D0018E509 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAFDB1E42905B8B30018E509 /* JuegosViewController.swift in Sources */,
 				AAFDB1D72905B07D0018E509 /* HuarachaColeccionDeJuegos.xcdatamodeld in Sources */,
 				AAFDB1D12905B07D0018E509 /* ViewController.swift in Sources */,
 				AAFDB1CD2905B07D0018E509 /* AppDelegate.swift in Sources */,
